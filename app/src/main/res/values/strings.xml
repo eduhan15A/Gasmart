@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gasmart</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="distance">5</string>
+    <string name="title_activity_station_details">StationDetails</string>
+    <string name="IP_CONFIG">192.168.1.75:8080</string>
+    <string name="StationDetails_inputMessage">Ingresa tus comentarios por favor</string>
+</resources>
